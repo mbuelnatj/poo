@@ -1,0 +1,22 @@
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.deps.json
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.runtimeconfig.json
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.runtimeconfig.dev.json
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.dll
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.pdb
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.csprojAssemblyReference.cache
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.csproj.CoreCompileInputs.cache
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.AssemblyInfoInputs.cache
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.AssemblyInfo.cs
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.dll
+C:\Users\bueln\Documents\Universidad\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.pdb
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.deps.json
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.runtimeconfig.json
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.runtimeconfig.dev.json
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.dll
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\bin\Debug\netcoreapp2.1\P02.-EntendiendoUML.pdb
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.csprojAssemblyReference.cache
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.csproj.CoreCompileInputs.cache
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.AssemblyInfoInputs.cache
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.AssemblyInfo.cs
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.dll
+C:\Users\Miguel\Desktop\Miguel Buelna\Respaldo\Poo\P02.-EntendiendoUML\P02.-EntendiendoUML\obj\Debug\netcoreapp2.1\P02.-EntendiendoUML.pdb
